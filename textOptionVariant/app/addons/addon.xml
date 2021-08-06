@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<addon scheme='3.0'>
+    <id>textoptionvariant</id>
+    <name>Text Option Variant</name>
+    <description>Add variant to text option</description>
+    <version>1.0</version>
+    <priority>100</priority>
+    <default_language>en</default_language>
+    <status>active</status>
+    <compatibility>
+        <core_version>
+            <min>4.3.2</min>
+            <max>4.3.3</max>
+        </core_version>
+    </compatibility>
+</addon>
