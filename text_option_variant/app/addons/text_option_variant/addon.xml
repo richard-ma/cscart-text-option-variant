@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>text_option_variant</id>
+    <name>Text Option Variant</name>
+    <description>Add Variant to Text Option</description>
+    <version>1.0</version>
+    <priority>100500</priority>
+    <position>0</position>
+    <auto_install>MULTIVENDOR,ULTIMATE,FREE</auto_install>
+    <default_language>en</default_language>
+</addon>

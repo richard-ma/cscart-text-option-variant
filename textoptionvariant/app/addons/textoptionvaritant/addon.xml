@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-
-<addon scheme='2.0'>
-    <id>textoptionvariant</id>
-    <name>Text Option Variant</name>
-    <description>Add Variant to Text Option</description>
-    <version>1.0</version>
-    <priority>100</priority>
-</addon>
