@@ -14,7 +14,7 @@
 
 if ( !defined('AREA') ) { die('Access denied'); }
 
-function fn_textOptionVariant_addon_update_product_option_post(&$option_data, &$option_id, &$deleted_variants, &$lang_code)
+function fn_textoptionvariant_update_product_option_post(&$option_data, &$option_id, &$deleted_variants, &$lang_code)
 {
 	fn_print_die($option_data);
 }
